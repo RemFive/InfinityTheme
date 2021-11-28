@@ -2,14 +2,14 @@
 * @name         Duality
 * @description  Enjoy Discord with a theme based on elements that "pop out" of the screen.
 * @donate       https://bit.ly/3fnzq1Z
-* @source       https://github.com/rmkx/rmkx.github.io/blob/main/Duality/src/duality.css
+* @source       https://github.com/RemFive/InfinityTheme/blob/main/Duality/src/duality.css
 * @author       rmkx
 * @invite       HnGWVQbQBv
 * @version      1.0.1
 */  
 
-@import url('https://rmkx.github.io/src/settingsIcons.css');
-@import url('https://rmkx.github.io/src/customBadges.css');
+@import url('https://InfinityTheme/src/settingsIcons.css');
+@import url('https://InfinityTheme/src/customBadges.css');
 
 :root {
 
